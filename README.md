@@ -6,6 +6,7 @@ strong password generator codded in python with gui
 
 ## How to start?
   start the file called start.exe
+
 ---
 
 ## How to use?
